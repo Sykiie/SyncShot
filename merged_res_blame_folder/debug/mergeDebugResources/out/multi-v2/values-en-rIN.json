@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gather.room.app-mergeDebugResources-10:/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zamirah Alec\\.gradle\\caches\\8.13\\transforms\\d908e200a0f826ac4e9d26a7d40ab6e8\\transformed\\core-1.2.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

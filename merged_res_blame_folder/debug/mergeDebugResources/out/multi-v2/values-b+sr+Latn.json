@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gather.room.app-mergeDebugResources-10:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zamirah Alec\\.gradle\\caches\\8.13\\transforms\\49fef451f411cf42071d4801770abe01\\transformed\\play-services-basement-18.9.0\\res\\values-b+sr+Latn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "225",
+                        "endColumns": "125",
+                        "endOffsets": "350"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1052",
+                        "endColumns": "129",
+                        "endOffsets": "1177"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zamirah Alec\\.gradle\\caches\\8.13\\transforms\\5680ea93984f32e221d2a152255bdaf7\\transformed\\play-services-nearby-19.5.1\\res\\values-b+sr+Latn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "56",
+                        "endOffsets": "265"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2230",
+                        "endColumns": "60",
+                        "endOffsets": "2286"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zamirah Alec\\.gradle\\caches\\8.13\\transforms\\00e726e83f288ffff369855a1f7d398c\\transformed\\play-services-base-18.5.0\\res\\values-b+sr+Latn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "200,303,457,580,686,836,959,1067,1165,1310,1413,1569,1692,1837,1976,2040,2101",
+                        "endColumns": "102,153,122,105,149,122,107,97,144,102,155,122,144,138,63,60,75",
+                        "endOffsets": "302,456,579,685,835,958,1066,1164,1309,1412,1568,1691,1836,1975,2039,2100,2176"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,320,447,557,711,838,950,1182,1331,1438,1598,1725,1874,2017,2085,2150",
+                        "endColumns": "106,157,126,109,153,126,111,101,148,106,159,126,148,142,67,64,79",
+                        "endOffsets": "157,315,442,552,706,833,945,1047,1326,1433,1593,1720,1869,2012,2080,2145,2225"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zamirah Alec\\.gradle\\caches\\8.13\\transforms\\d908e200a0f826ac4e9d26a7d40ab6e8\\transformed\\core-1.2.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2291",
+                        "endColumns": "100",
+                        "endOffsets": "2387"
+                    }
+                }
+            ]
+        }
+    ]
+}
